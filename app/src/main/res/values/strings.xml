@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fullName">Full name: Emediong Ubong Christopher</string>
+    <string name="slackUsername">Slack Username: Chris Eminence</string>
+    <string name="email">Email: emichris380@gmail.com</string>
+    <string name="tracks">Tracks: Mobile</string>
+    <string name="welcome">WELCOME TO MY FIRST APPLICATION</string>
+
+</resources>
